@@ -5,7 +5,7 @@
 - [ByteDance](#bytedance)
 - [Google](#google)
 - [Microsoft](#microsoft)
-- [Stanford University](#stanford-university)
+- [University](#stanford-university)
 
 ## Apple
 - Application: [Core ML Models](https://developer.apple.com/machine-learning/models/)
@@ -18,5 +18,6 @@
 ## Microsoft
 - Differencial Transformer(2024, [paper](https://arxiv.org/abs/2410.05258), [Chinese](https://mp.weixin.qq.com/s/zzyKTZ6hBIjB1freidb05A)) 
 
-## Stanford University
-- Agent AI(2024, [paper](https://arxiv.org/pdf/2401.03568))
+## University
+- Agent AI(2024, Stanford Uni, [paper](https://arxiv.org/pdf/2401.03568))
+- Depth-Centric Dehazing and Depth-Estimation from Real-World Hazy Driving Video (2024, Nanjing Uni of Sci & Tech, [paper](https://arxiv.org/pdf/2412.11395), [Chinese](https://mp.weixin.qq.com/s/_rWNHSkizPUhBrGWQbmLEQ))
